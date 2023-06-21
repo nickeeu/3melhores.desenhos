@@ -1,0 +1,46 @@
+body {
+ background-color: lightblue;
+ color: darkgreen;
+ font-family: verdana;
+ width: 100%;
+ margin: auto;
+
+}
+.btn{
+
+  font-size: 28px;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+  margin-bottom: 30px;
+  padding: 10px;
+  font-weight: bold;
+}
+
+
+.btn-1{
+
+  color: orange;
+  background-color: white;
+  border-radius: 10px;
+  border-bottom: 10px;
+  
+
+}
+
+.cabecalho {
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: spacebetween;
+
+
+}
+
+
+.cabecalho>div {
+
+width:100%;
+
+}
+
